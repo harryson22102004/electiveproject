@@ -1,0 +1,15 @@
+# OS/editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# Backend build outputs
+shopnexus-api/target/
+
+# Frontend build outputs
+shopnexus-ui/node_modules/
+shopnexus-ui/dist/
