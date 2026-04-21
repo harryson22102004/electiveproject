@@ -1,5 +1,10 @@
 ## Project Report — ShopNexus (Multi-Vendor E-commerce)
 
+Student Information
+- Name: Vivek Das
+- Roll: 2305830
+- Course: Full Stack with Java
+
 ### Q1. What was guided during the project-related sessions
 
 During the sessions we were guided through the full development lifecycle for a full-stack web application using Spring Boot and React. Key topics included:

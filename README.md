@@ -1,5 +1,10 @@
 # ShopNexus — Multi-Vendor E-commerce (Project Submission)
 
+Student Information
+- Name: Vivek Das
+- Roll: 2305830
+- Course: Full Stack with Java
+
 This repository contains a full-stack Multi-Vendor E-commerce platform built for an academic project.
 
 Structure

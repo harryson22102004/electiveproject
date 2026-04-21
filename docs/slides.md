@@ -1,5 +1,10 @@
 # Presentation Slides — ShopNexus (Outline)
 
+Student Information
+- Name: Vivek Das
+- Roll: 2305830
+- Course: Full Stack with Java
+
 Slide 1 — Title
 - ShopNexus: Multi-Vendor E-commerce
 - Team / Author, Course, Date
